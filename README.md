@@ -32,4 +32,4 @@ Previously: AI DevRel @ Huawei Cloud ModelArts · 50,000+ signups for AI Growth 
 
 ---
 
-📬 [cv.ianxu.me](https://cv.ianxu.me) · [openbuild.xyz](https://openbuild.xyz) · [@callmeianx](https://x.com/callmeianx)
+📬 [openbuild.xyz](https://openbuild.xyz) · [@callmeianx](https://x.com/callmeianx)
