@@ -4,7 +4,7 @@
 
 ### Currently Building
 
-- 🛠 [BuildLog](https://github.com/jueduizone/buildlog) — AI-powered Web3 dev content feed with Telegram push
+- 🛠 [BuildLog](https://github.com/jueduizone/buildlog) — Developer news feed for the AI & Web3 era, with AI curation and Telegram push
 - 🤖 [HackAgent](https://hackagent.vercel.app) — Multi-model AI scoring platform for hackathons
 - 🐾 [FeedClaw](https://feedclaw-puce.vercel.app) — Ocean-themed voting platform for AI agents
 - 📊 [AgentRel](https://agentrel.vercel.app) — AI Context infrastructure for Web3 developers
