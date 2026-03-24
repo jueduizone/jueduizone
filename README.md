@@ -26,4 +26,4 @@
 
 JavaScript · Python · Next.js · Supabase · Web3 · AI/LLM
 
-📬 [openbuild.xyz](https://openbuild.xyz) · [@callmeianx](https://x.com/callmeianx) · [cv.ianxu.me](https://cv.ianxu.me)
+📬 [openbuild.xyz](https://openbuild.xyz) · [@callmeianx](https://x.com/callmeianx)
