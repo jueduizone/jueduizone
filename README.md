@@ -10,7 +10,7 @@
 
 ### Community
 
-- 🦀 [RustCC](https://rustcc.cn) — core organizer of RustCon, China's annual Rust conference
+- 🦀 [RustCC](https://rustcc.cn) — core organizer of Rust China Conf, China's annual Rust conference
 - 🐍 [PyChina](https://pychina.org) — core organizer of PyCon China
 - 🪶 [ALC Beijing](https://alc-beijing.github.io) — Apache Local Community Beijing; core team of Community Over Code Asia
 - 🌐 [OpenBuild.xyz](https://openbuild.xyz) — co-founder, 40,000+ devs, 150+ events, 100+ protocol partnerships
